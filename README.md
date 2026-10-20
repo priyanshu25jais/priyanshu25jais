@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science at **ABES Engineering College** (2023 – 2027) · SGPA **8.35**
+- 🎓 B.Tech Computer Science at **ABES Engineering College** (2023 – 2027) · CGPA **8.35**
 - 💻 Building and deploying **full-stack web applications** with the MERN stack, with automated tests
-- 🤖 Interested in **AI, Machine Learning and Agentic Systems**
+- 🤖 Building **AI/LLM projects** with Python, FastAPI and Google Gemini, and exploring **Agentic Systems**
 - 📚 **1000+ DSA problems** solved across LeetCode, CodeChef and HackerRank
 - 🏅 LeetCode contest rating **1800+** (top 8%) · CodeChef **2★**
 - 🌱 Currently learning **Spring Boot** and modern software engineering practices
@@ -23,7 +23,7 @@
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,c,js,mysql,react,html,css,tailwind,bootstrap,materialui,nodejs,express,fastapi,mongodb,jest,docker,git,github,postman,netlify,vercel&perline=11" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,docker,postman&perline=8" alt="Tech stack icons" />
 </p>
 
 | | |
@@ -32,6 +32,7 @@
 | **Frontend** | React.js · HTML · CSS · Tailwind CSS · Bootstrap · Material UI · Chart.js |
 | **Backend** | Node.js · Express.js · FastAPI · REST APIs |
 | **Databases** | MongoDB · MongoDB Atlas · Mongoose · MySQL |
+| **AI / ML** | Google Gemini API · Prompt Engineering · Scikit-learn · TensorFlow · Pandas · NumPy · NLP (TF-IDF) |
 | **Testing** | Jest · React Testing Library · Node.js test runner |
 | **Tools & Cloud** | Git · GitHub · Docker · Postman · Render · Netlify · Vercel |
 
@@ -41,6 +42,7 @@
 | --- | --- | --- | --- |
 | 📈 **Vittora** | Practice stock trading platform: trade 17 NSE/BSE stocks with demo money and track holdings, orders and profit or loss. Website, dashboard and REST API, with 50 automated tests | React · Node.js · Express · MongoDB · Chart.js · Jest | [Website](https://stock-tradingplatform.netlify.app) · [Dashboard](https://stock-tradingdashboard.netlify.app) · [Code](https://github.com/priyanshu25jais/stock-trading-platform) |
 | 🎬 **CineHub** | Movie ticket booking with seat selection, Razorpay payments and an admin dashboard | React · Node.js · Express · MongoDB · Clerk | [Live](https://cine-hub-beige.vercel.app) · [Code](https://github.com/priyanshu25jais/CineHub) |
+| 📄 **Shortlist** | LLM-based resume screening: checks resumes against a job description with Google Gemini, ranks the candidates and explains why each one ranks where they do | Python · FastAPI · Google Gemini | [Live](https://resume-scanner-gmj7.onrender.com) · [Code](https://github.com/priyanshu25jais/LLM-Resume-Scanner) |
 | 📰 **News Pulse** | Pulls news from RSS feeds and groups related stories into topic timelines | React · Node.js · MongoDB · Python · TF-IDF | [Live](https://news-pulse-zeta-ten.vercel.app) · [Code](https://github.com/priyanshu25jais/news-pulse) |
 | 🤖 **Sentiment Feeder** | AI-powered feedback analysis (positive / neutral / negative) | FastAPI · NLP · MongoDB Atlas · React | [Code](https://github.com/priyanshu25jais/Sentiment_Feeder) |
 | ⚡ **OpenClaw Build** | Working with OpenClaw and AI-agent systems: automation, integration and software engineering workflows | AI Agents · Automation | — |
